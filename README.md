@@ -3,6 +3,14 @@
 # App Features
 > *The goal of this app is to give simple analytics based on the game Valorant, aswell as presenting it on a simple and clean interface, while also letting a game enthusiast's choose a variety of ways to check certian statistics*
 
+# The API
+
+	The base url is https://api.henrikdev.xyz
+	
+	The documention for the API is available under 
+	
+	https://docs.henrikdev.xyz/valorant.html
+
 ## The Data
 
 Using a Third-Party API I can get data based on user, match, etc...
@@ -61,5 +69,3 @@ Using a Third-Party API I can get data based on user, match, etc...
 > User's will land at the homepage with options to either check the new's or patch notes, or check the leaderboard based on region, aswell as giving user the ablitly to directly search for a player to check stats like rank, match history, etc...
 
 > User's will be able to add their Valorant players to a watch list
-
-
